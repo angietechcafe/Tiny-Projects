@@ -2,6 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 
 # user input
-Github_Link = input("Paste Github user link here: " )
+Github_link = input("Paste Github user link here: " )
 # -> angieintech
-r = requests.get(url)
+# HTTP get request to get the github url link
+r = requests.get(Github_link)
+
