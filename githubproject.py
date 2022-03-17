@@ -9,5 +9,5 @@ req = requests.get(Github_link)
 # Web scraping the image begins here
 soup = beausoup(req.content, 'html.parser')
 # Use the image tag to find a certain image on Github.
-# certain_image = soup.find('img',{})
+# certain_image = soup.find('img',{'some tag here': 'tag description here'})
 
