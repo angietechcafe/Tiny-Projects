@@ -3,3 +3,4 @@ These are a few tiny projects that I have made to help me understand computer sc
 - Tuple Sample
 - Granny Smith Apples User Input
 - Github Project
+- Selenium Example
