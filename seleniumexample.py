@@ -4,4 +4,4 @@ from selenium import webdriver
 import requests 
 import time
 # find_element_by_xpath
-# driver.find_element_by_xpath('//something goes here from the website /input')
+# driver.find_element_by_xpath('//paste xpathfrom the website in here /input')
