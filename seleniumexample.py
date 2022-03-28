@@ -2,4 +2,6 @@
 from selenium import webdriver
 # use HTTP requests to get info
 import requests 
+import time
 # find_element_by_xpath
+# driver.find_element_by_xpath('//something goes here from the website /input')
