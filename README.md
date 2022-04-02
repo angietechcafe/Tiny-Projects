@@ -4,3 +4,4 @@ These are a few tiny projects that I have made to help me understand computer sc
 - Granny Smith Apples User Input
 - Github Project
 - Selenium Example
+- Lock Color with JavaScript
