@@ -13,8 +13,8 @@ import time
 # wait 10 seconds using explicit wait
 driver = webdriver.Firefox()
 try:
-    element = WebDriverWait(driver, 10).until(
-        EC.presence_of_element_located((By.ID, "#"))
-    )
+  #  element = WebDriverWait(driver, 10).until(
+  #     EC.presence_of_element_located((By.ID, "#"))
+  # )
 finally:
     driver.quit()
