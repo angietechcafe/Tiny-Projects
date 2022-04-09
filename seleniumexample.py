@@ -7,6 +7,12 @@ from selenium.webdriver.support import expected_conditions as EC
 import requests 
 import magic
 import time
+
+# Get GitHub Url and store it in a variable
+GitHub_url = input("Please enter your GitHub url here: ")
+
+#
+
 # find_element_by_xpath
 # driver.find_element_by_xpath('//paste xpathfrom the website in here /input')
 
