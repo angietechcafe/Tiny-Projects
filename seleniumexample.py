@@ -9,9 +9,9 @@ import magic
 import time
 
 # Get GitHub Url and store it in a variable
-GitHub_url = input("Please enter your GitHub url here: ")
+GitHub_url = input("Please enter your GitHub url here: https://github.com/ ")
 
-#
+# Fetch the request?
 
 # find_element_by_xpath
 # driver.find_element_by_xpath('//paste xpathfrom the website in here /input')
