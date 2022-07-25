@@ -1,22 +1,37 @@
 <h1>How to make a pull request?</h1>
 
-<h3>On the terminal for Mac OS</h3>
-<ol>
-  <li>Install git</li>
-   <li>Create a directory</li>
-  <li>Edit and/or create file for pull request</li>
-  <li>Git branch, checkout, checkout -b commands</li>
-  <li>Git git add “filename.ext”</li>
-  <li>Git Status</li>
-  <li>git commit -m “put a message here”</li>
-  <li> git fetch upstream. </li>
-  <li>git push --set-upstream origin "branch"</li>
-  <li>git checkout -b upstream-<directory> --track upstream/<directory></li>
-  <li>git pull </li>
-  <li>git push</li>
-</ol>
-
+<h2>There are a series to steps that GitHub users can use to make a pull request. A common way of making a pull request is by using git commands from the terminal. In this tip document, I will mention how to do pull requests on a Mac terminal.</h2>
+ 
+    <h3>Install git</h3>
 <p>People can install git on their computers by first installing homebrew. Afterwards, they can go on the terminal and type this brew command:
   $ brew install git</p>
-<p>On the terminal, make a new directory using the mkdir command with a name. For example, we can make a directory with "mkdir project" . Next, create a file such as an HTML file that you want to update on your GitHub site.  If there is a mistake in the file, no worries. - We can update it by doing a pull request.  </p>
+    
+    <h3>Create a directory</h3>
+<p>On the terminal, make a new directory using the mkdir command with a name. For example, we can make a directory with "mkdir project" . Next, create a file such as an HTML file that you want to update on your GitHub site.  If there is a mistake in the file, no worries. - We can update it by doing a pull request. However, before we do a pull request we need to create a branch aside from our main branch. </p>
+   
+    <h3>Git branch, checkout, checkout -b commands</h3>
+<p></p>
   
+    <h3>Git git add “filename.ext”</h3>
+    <p></p>
+   
+    <h3>Git Status</h3>
+    <p></p>
+    
+    <h3><li>git commit -m “put a message here”</li></h3>
+    <p></p>
+    
+    <h3>git fetch upstream </h3>
+    <p></p>
+  
+  <h3>git push --set-upstream origin "branch"</h3>
+  <p></p>
+  
+  <h3>git checkout -b upstream-<directory> --track upstream/<directory></h3>
+  <p></p>
+  
+  <h3>git pull</h3>
+  <p></p>
+  
+  <h3>git push</h3>
+  <p></p>
