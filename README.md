@@ -7,3 +7,4 @@ These are a few tiny projects that I have made to help me understand computer sc
 - Lock Color with JavaScript
 - Quote Generator
 - My GitHub Tricks
+- Sec+ Lessons Learned
