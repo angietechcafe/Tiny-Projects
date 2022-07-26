@@ -1,4 +1,4 @@
-<h1>Implementation - Cloud-based Virtualization and Encryption Explained</h1>
+<h1>Implementation: Cloud-based Virtualization and Encryption Explained</h1>
 
 <h2>Confidentiality</h2>
 
