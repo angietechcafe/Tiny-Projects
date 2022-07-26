@@ -14,7 +14,7 @@ GitHub_url = input("Please enter your GitHub url here: https://github.com/ ")
 # Fetch the request?
 
 # find_element_by_xpath
-# driver.find_element_by_xpath('//paste xpathfrom the website in here /input')
+driver.find_element_by_xpath('//paste xpathfrom the website in here /input')
 
 # wait 20 seconds using explicit wait & use xpath to click on the image
 driver = webdriver.Firefox()
