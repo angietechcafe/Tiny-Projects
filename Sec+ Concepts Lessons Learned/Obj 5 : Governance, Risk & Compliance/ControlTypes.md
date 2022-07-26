@@ -1,4 +1,4 @@
-<h1>Control Types in the infosec world</h1>
+<h1>Control types in the infosec world</h1>
 
 <h2>Here are the following control types used in the information security field:</h2>
 <ul>
