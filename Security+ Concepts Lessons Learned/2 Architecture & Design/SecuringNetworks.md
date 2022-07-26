@@ -7,6 +7,6 @@
   <li>Establish a performance baseline</li>
 </ul>
 
-<h3>>Establish a performance baseline</h3>
+<h3>Establish a performance baseline</h3>
 <p>A performance baseline can be established by making a comparison with 
   the current performance so security professionals can discover performance issues.</p>
