@@ -1,6 +1,6 @@
 <h1>How to make a pull request?</h1>
 
-<h2>There are a series to steps that GitHub users can use to make a pull request. A common way of making a pull request is by using git commands from the terminal. In this tip document, I will mention how to do pull requests on a Mac terminal.</h2>
+<h2>There are a series of steps that GitHub users can use to make a pull request. A common way of making a pull request is by using git commands from the terminal. In this tip document, I will mention how to do pull requests on a Mac terminal.</h2>
  
 <h3>Install git</h3>
 <p>People can install git on their computers by first installing homebrew. Afterwards, they can go on the terminal and type this brew command:
