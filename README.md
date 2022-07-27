@@ -8,3 +8,5 @@ These are a few tiny projects that I have made to help me understand computer sc
 - Quote Generator
 - My GitHub Tricks
 - Sec+ Concepts Lessons Learned
+- OWASP Top 10 Lessons Learned
+- AWS CCP Lessons Learned
