@@ -3,6 +3,7 @@
 <h2>Here are the following control types used in the information security field:</h2>
 <ul>
   <li>Identity Federation - Identity Provider (IdP)</li>
+  <li>SAML Standard </li>
 </ul>
 
 <h3>Identity Provider (IdP)</h3>
