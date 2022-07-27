@@ -1,4 +1,4 @@
-<h1>AWS CCP Lessons Learned</h1>
+<h1> ☁️ AWS CCP Lessons Learned ☁️ </h1>
 
 
 <h3>Here are the objectives that will be covered in AWC CCP concepts lessons learned repo: </h3>
