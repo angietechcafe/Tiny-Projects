@@ -31,7 +31,7 @@
   <!--p-->
   
 <h3>git pull</h3>
- <!--p-->
+ <p>When in doubt, always update your local repository before you do a pull request. It will save you time and avoid merge conflicts.</p>
   
 <h3>git push</h3>
  <!--p-->
