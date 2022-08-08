@@ -1,6 +1,6 @@
 <h1>Injection</h1>
 
-<h2>What is injection?</h2>
+<h2>What is an injection?</h2>
 <p>User input that is vulnerable and interpreted and carried out by the server. </p>
 
 <h3>Why is this concept important?</h3> 
