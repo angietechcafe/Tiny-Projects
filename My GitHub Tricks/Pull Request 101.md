@@ -10,7 +10,7 @@
 <p>On the terminal, make a new directory using the mkdir command with a name. For example, we can make a directory with "mkdir project" . Next, create a file such as an HTML file that you want to update on your GitHub site.  If there is a mistake in the file, no worries. - We can update it by doing a pull request. However, before we do a pull request we need to create a branch aside from our main branch. </p>
    
 <h3>Git branch, checkout, checkout -b commands</h3>
-<p>Git branch command is used to develop, list, and delete branches. However, it is not permitted to change between branches or place a pasted forked come together once again.</p>
+<p>Git branch command is used to develop, list, and delete branches. However, it is not permitted to change between branches or place a pasted forked come together once again. Therefore, git branch is included with the following commands: git checkout and git merge.</p>
   
 <h3>Git git add “filename.ext”</h3>
     <!--p-->
