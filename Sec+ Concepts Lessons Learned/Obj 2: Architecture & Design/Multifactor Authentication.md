@@ -2,7 +2,7 @@
 
 <h2>This note sheet is about multifactor authentication.</h2>
 
-<p>Here are the following ways to multifactor authentication:</p>
+<p>Here are the following multifactor authentication concepts:</p>
 <ul>
   <li>Smart card</li>
 </ul>
