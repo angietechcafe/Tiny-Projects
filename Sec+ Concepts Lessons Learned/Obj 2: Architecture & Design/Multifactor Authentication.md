@@ -8,4 +8,4 @@
 </ul>
 
 <h3>Smart Card</h3>
- <p>A smart card is something you know and have. It's something you have because you can have a PIN.</p>
+ <p>A smart card is something you know and have. - This is because you can have a PIN.</p>
