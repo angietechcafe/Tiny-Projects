@@ -4,6 +4,7 @@ These are a few tiny projects that I have made to help me understand IT concepts
 - Granny Smith Apples User Input
 - Kittens Google Link Beautiful Soup Project
 - Github Selenium Example
+- Conditionals Practice
 - Lock Color with JavaScript
 - Quote Generator
 - My GitHub Tricks
