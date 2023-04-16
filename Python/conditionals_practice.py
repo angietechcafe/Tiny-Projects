@@ -2,7 +2,7 @@
 
 def first_example(temp, neutrons_sent):
     
-    NEW_PRODUCT = temp * neutrons_sen
+    NEW_PRODUCT = temp * neutrons_sent
     
     return temp < 900 and neutrons_sent > 400 and NEW_PRODUCT < 600000
 
