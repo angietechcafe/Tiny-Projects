@@ -1,5 +1,5 @@
 crs = ["uname", "pwd"]
-login = input("enter your username and password")
+login = input("enter your username and password: ")
 
 # login error handling
   
