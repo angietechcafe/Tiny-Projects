@@ -1,9 +1,5 @@
-crs = ["uname", "pwd"]
-login = input("enter your username and password: ")
-
-# login error handling
-  
-
 # bf starts here.
+wordlist = [''] + a('0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz°!"§$%&/()=ß´`+#-.,><@€|^~–{[]}ÄÖÜäöü')
 
-print(login)
+for i in wordlist:
+  # print here
