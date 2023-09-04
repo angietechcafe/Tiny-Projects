@@ -11,3 +11,4 @@ These are a few tiny projects that I have made to help me understand IT concepts
 - Sec+ Concepts Lessons Learned
 - OWASP Top 10 Lessons Learned
 - AWS CCP Lessons Learned
+- Practice Secure Code Review
