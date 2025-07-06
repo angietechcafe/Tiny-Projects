@@ -12,3 +12,4 @@ These are a few tiny projects that I have made to help me understand IT concepts
 - OWASP Top 10 Lessons Learned
 - AWS CCP Lessons Learned
 - Secure Code Review Practice
+- [Angie's Cyber Education Medium Blogs](https://angietechcafe.medium.com/list/angies-tech-content-track-d5a0c656fa30)
